@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 赵醒醒的个人主页
+title: Stefancyy的个人主页
 brief-intro: 一只悲催的小码农
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhaoxxxx.github.io" # the base hostname & protocol for your site
@@ -16,8 +16,8 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  zhaoxxxx
-email: 757032662@qq.com
+github_username:  Stefancyy
+email: 547269074@qq.com
 weibo_username: #3115521wh
 zhihu_username: #gaohaoyang
 linkedIn_username: #gaohaoyang
