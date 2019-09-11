@@ -9,7 +9,7 @@
 title: Stefancyy的个人主页
 brief-intro: 一只悲催的小码农
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zhaoxxxx.github.io" # the base hostname & protocol for your site
+url: "https://Stefancyy.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
